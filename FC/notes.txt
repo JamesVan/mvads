@@ -4,7 +4,6 @@ appnexus.com, 1356, DIRECT, f5ab79cb980f11d1 #bRealtime, Display
 districtm.io, 100226, DIRECT #DistrictM, Display
 appnexus.com, 7944, RESELLER #DistrictM, Display
 appnexus.com, 1908, RESELLER #DistrictM, Display
-teads.tv, 12826, DIRECT, 15a9c44f6d26cbe1 #Teads, Video
 teads.tv, 7608, DIRECT, 15a9c44f6d26cbe1 #Teads, Video
 rubiconproject.com, 12736,DIRECT, 0bfd66d529a55807 #Rubicon, Display
 indexexchange.com, 185954, DIRECT #Index, Display
@@ -31,3 +30,4 @@ teads.tv, 15944, DIRECT, 15a9c44f6d26cbe1 #Teads, Video #Teads, Video Pangaea PM
 #Undertone
 #Nativo
 revcontent.com, 6590, DIRECT #RevContent, Sponsored Links
+teads.tv, 12826, DIRECT, 15a9c44f6d26cbe1 #Teads, Video DEPRICATED
