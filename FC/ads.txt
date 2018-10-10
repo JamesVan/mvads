@@ -12,7 +12,7 @@ adtech.com, 9481, DIRECT #Display
 spotxchange.com, 190085, DIRECT, 7842df1d2fe2db34 #Video
 spotx.tv, 190085, DIRECT, 7842df1d2fe2db34 #Video
 appnexus.com, 3735, DIRECT  #Display
-openx.com, 538904412,DIRECT, 6a698e2ec38604c6 #OpenX
+openx.com, 538904412,DIRECT, 6a698e2ec38604c6 #Display
 appnexus.com, 8613, DIRECT #Display    
 liveintent.com, 27296 , DIRECT #email Display
 video.unrulymedia.com, UNRX_5be1e37d-3280-4a7f-ae32-5bac51cfde95, DIRECT #Video, FC.com
