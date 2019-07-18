@@ -21,3 +21,4 @@ google.com, pub-3746578658400510, RESELLER, f08c47fec0942fa0 #Display, Video
 indexexchange.com, 185292, RESELLER #Display
 teads.tv, 15940, DIRECT, 15a9c44f6d26cbe1 #Video
 teads.tv, 15944, DIRECT, 15a9c44f6d26cbe1 #Video
+dianomi.com, 1061, DIRECT, 61e7d0a6019f7cfc
