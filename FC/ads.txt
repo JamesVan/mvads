@@ -22,7 +22,6 @@ indexexchange.com, 185292, RESELLER #Display
 teads.tv, 15940, DIRECT, 15a9c44f6d26cbe1 #Video
 teads.tv, 15944, DIRECT, 15a9c44f6d26cbe1 #Video
 dianomi.com, 1061, DIRECT, 61e7d0a6019f7cfc
-
 anyclip.com, 1, DIRECT #INTL Video
 anyclip.com, 001w000001KVCMuAAP , DIRECT #INTL Video
 google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0 #INTL Video
