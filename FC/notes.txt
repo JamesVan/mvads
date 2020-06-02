@@ -14,6 +14,7 @@ spotx.tv, 190085, DIRECT, 7842df1d2fe2db34 #SpotX, Video
 appnexus.com, 3735, DIRECT  #Appnexus, Display
 openx.com, 538908023, DIRECT, 6a698e2ec38604c6 #OpenX, Display
 appnexus.com, 8613, DIRECT #Pangaea, Display    
+triplelift.com, 249, DIRECT, 6c33edb13117fd86 #TripleLift,Display
 liveintent.com, 27296 , DIRECT #Liveintent, email Display
 video.unrulymedia.com, UNRX_5be1e37d-3280-4a7f-ae32-5bac51cfde95, DIRECT #Unruly, Video, FC.com
 indexexchange.com, 182257, RESELLER #Unruly, Video, FC.com
