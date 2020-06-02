@@ -24,6 +24,31 @@ teads.tv, 15940, DIRECT, 15a9c44f6d26cbe1 #Teads, Video #Teads, Video Pangaea PM
 teads.tv, 15944, DIRECT, 15a9c44f6d26cbe1 #Teads, Video #Teads, Video Pangaea PMP
 dianomi.com, 1061, DIRECT, 61e7d0a6019f7cfc #Native
 
+#### AnyClip ####
+anyclip.com, 1, DIRECT #INTL Video
+anyclip.com, 001w000001KVCMuAAP , DIRECT #INTL Video
+google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0 #INTL Video
+openx.com, 537139983, RESELLER, 6a698e2ec38604c6 #INTL Video
+appnexus.com, 2720, RESELLER #INTL Video
+indexexchange.com, 189544, RESELLER #INTL Video
+spotxchange.com, 122680, RESELLER, 7842df1d2fe2db34 #INTL Video
+telaria.com, 0kq41, RESELLER, 1a4e959a1b50034a #INTL Video
+tremorhub.com, 0kq41, RESELLER, 1a4e959a1b50034a #INTL Video
+pubmatic.com, 156610, RESELLER, 5d62403b186f2ace #INTL Video
+synacor.com, 82177, RESELLER, e108f11b2cdf7d5b #INTL Video
+rhythmone.com, 905992537, RESELLER, a670c89d4a324e47  #INTL Video
+onetag.com, 572a470226457b8, RESELLER  #INTL Video
+improvedigital.com, 1468, RESELLER #INTL Video
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #INTL Video
+indexexchange.com, 185192, DIRECT #INTL Video
+rubiconproject.com, 17346, DIRECT, 0bfd66d529a55807 #INTL Video
+openx.com, 538929384, DIRECT, 6a698e2ec38604c6 #INTL Video
+spotx.tv, 108706, DIRECT, 7842df1d2fe2db34 #INTL Video
+rhythmone.com,1149317856,DIRECT, a670c89d4a324e47 #INTL Video
+pubmatic.com, 157904, DIRECT, 5d62403b186f2ace #INTL Video
+advertising.com, 25001, RESELLER #INTL Video
+aol.com, 47230, RESELLER #INTL Video
+### End Anyclip ###
 
 ##### MISSING #####
 #IPM
