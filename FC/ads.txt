@@ -13,7 +13,8 @@ spotxchange.com, 190085, DIRECT, 7842df1d2fe2db34 #Video
 spotx.tv, 190085, DIRECT, 7842df1d2fe2db34 #Video
 appnexus.com, 3735, DIRECT  #Display
 openx.com, 538908023, DIRECT, 6a698e2ec38604c6 #Display
-appnexus.com, 8613, DIRECT #Display    
+appnexus.com, 8613, DIRECT #Display
+triplelift.com, 4072, DIRECT, 6c33edb13117fd86 #Display
 liveintent.com, 27296 , DIRECT #email Display
 video.unrulymedia.com, UNRX_5be1e37d-3280-4a7f-ae32-5bac51cfde95, DIRECT #Video, FC.com
 indexexchange.com, 182257, RESELLER #Video
@@ -45,7 +46,6 @@ rhythmone.com, 1149317856, RESELLER, a670c89d4a324e47 #INTL Video
 pubmatic.com, 157904, RESELLER, 5d62403b186f2ace #INTL Video
 advertising.com, 25001, RESELLER #INTL Video
 aol.com, 47230, RESELLER #INTL Video
-advertising.com,28056, RESELLER 
-spotx.tv,94794, RESELLER, 7842df1d2fe2db34
-spotxchange.com,94794, RESELLER, 7842df1d2fe2db34
-triplelift.com, 4072, DIRECT, 6c33edb13117fd86 #Display
+advertising.com,28056, RESELLER #INTL Video
+spotx.tv,94794, RESELLER, 7842df1d2fe2db34 #INTL Video
+spotxchange.com,94794, RESELLER, 7842df1d2fe2db34 #INTL Video
