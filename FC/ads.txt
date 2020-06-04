@@ -48,3 +48,4 @@ aol.com, 47230, RESELLER #INTL Video
 advertising.com,28056, RESELLER 
 spotx.tv,94794, RESELLER, 7842df1d2fe2db34
 spotxchange.com,94794, RESELLER, 7842df1d2fe2db34
+triplelift.com, 4072, DIRECT, 6c33edb13117fd86 #Display
