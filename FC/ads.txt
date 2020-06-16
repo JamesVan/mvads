@@ -9,7 +9,6 @@ rubiconproject.com, 12736,DIRECT, 0bfd66d529a55807 #Display
 indexexchange.com, 185954, DIRECT #Display
 trustx.org, 42, DIRECT #Display
 adtech.com, 9481, DIRECT #Display
-facebook.com, 10153157483209077, RESELLER, c3e20eee3f780d68 #Display
 spotxchange.com, 190085, DIRECT, 7842df1d2fe2db34 #Video
 spotx.tv, 190085, DIRECT, 7842df1d2fe2db34 #Video
 appnexus.com, 3735, DIRECT  #Display
