@@ -1,0 +1,13 @@
+[ "aolBidAdapter", 
+"appnexusBidAdapter", 
+"emx_digitalBidAdapter", 
+"districtmDMXBidAdapter", 
+"openxBidAdapter", 
+"prebidServerBidAdapter", 
+"rubiconBidAdapter", 
+"unrulyBidAdapter", 
+"rubiconAnalyticsAdapter", 
+"consentManagement", 
+"consentManagementUsp", 
+"teadsBidAdapter", 
+"nobidBidAdapter" ]
